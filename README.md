@@ -38,5 +38,15 @@ SELECT A,B,C
 WHERE A IS >B
 
 ```
+Visualization
+
+<img width="239" height="184" alt="PI IMAGE" src="https://github.com/user-attachments/assets/73556fce-0653-43e8-9c53-211eb8513289" />
+
+
+<img width="919" height="980" alt="bar image" src="https://github.com/user-attachments/assets/9a729daf-9ee9-4b48-b327-91bb9a24673a" />
+
+
+
+
 
  
