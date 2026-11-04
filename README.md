@@ -16,7 +16,7 @@ This documentation will enable us to make better decision and tell a compelling 
 
  ### Tools Useed
 
- - Ms Excl for Data Cleaning (Download here)(https://www.microsoft.com)
+   - Ms Excl for Data Cleaning [Download](https://www.microsoft.com)
  - SQL Server (For Querying and Analysis) 
  - Power BI (For creating a report) 
  - Ms Power Point (For Presentation)
