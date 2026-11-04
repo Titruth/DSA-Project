@@ -21,4 +21,21 @@ This documentation will enable us to make better decision and tell a compelling 
  - Power BI (For creating a report) 
  - Ms Power Point (For Presentation)
 
+### Data Cleaning and Preparation
+
+   In the initial phase of the Data cleaning and preparations, we perform the following action;
+   1. Data Loading and Inspection
+   2. Handling missing variables
+   3. Data Cleaning and fromatting
+
+### Data Analysis
+
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis
+
+Eg
+```
+SELECT A,B,C
+WHERE A IS >B
+``` 
+
  
