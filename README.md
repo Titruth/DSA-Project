@@ -36,6 +36,6 @@ Eg
 ```
 SELECT A,B,C
 WHERE A IS >B
-``` 
+```
 
  
